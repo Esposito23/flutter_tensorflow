@@ -1,0 +1,3 @@
+0 cane
+1 gallina
+2 cavallo
